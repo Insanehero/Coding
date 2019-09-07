@@ -1,0 +1,23 @@
+body{
+         background-color: aqua;
+margin: 0
+font-fy: cursive;
+}
+body img {
+    border-radius: 1000px;
+    width: 600px;
+    border: 20px solid white;
+}
+header{
+    text-align: center;
+     background-color: aqua;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+header h1{
+ 
+    color: goldenrod
+}
+header p{ color: goldenrod;
+    padding-top: 20px;
+font-family: cursive; }
